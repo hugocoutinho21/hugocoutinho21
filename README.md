@@ -1,16 +1,17 @@
-# About Me:
-Hi, I'm Hugo Coutinho, currently studying Computer Engineering at ISEP.
-<br>I’m focused on leveling up my programming skills — learning Java, Unix commands, Git, and all the essentials to build real projects.
-<br>I’m always trying to understand how things work behind the scenes and improve a bit every day.
-<br>Fun fact about me: I fix most bugs with coffee and stubbornness.
+### Hey there, I'm Hugo! 👋
 
-
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hugoo_coutinhoo)
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<p align="left">
+   🎓 Computer Engineering Student at <b>ISEP</b><br>
+   ⚙️ Obsessed with understanding how things work <b>under the hood</b><br>
+   🏀 <b>Basketball player</b><br>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hugocoutinho21&icon=0&color=1)](https://visitcount.itsvg.in)
 
+## 🛠️ Things I work with:
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
