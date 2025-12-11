@@ -3,10 +3,9 @@
 <p align="left">
    🎓 Computer Engineering Student at <b>ISEP</b><br>
    ⚙️ Obsessed with understanding how things work <b>under the hood</b><br>
-   🏀 <b>Basketball player</b><br>
+   🏀 Basketball player<br>
 </p>
 
----
 
 ## 🛠️ Things I work with:
 
